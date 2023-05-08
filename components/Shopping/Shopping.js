@@ -34,6 +34,9 @@ class Shopping {
             <td class="shopping-element__price">${sumCatalog}</td>
           </tr>
         </table>
+        <button disabled>
+          заказать
+        </button>
       </div>
     `;
 
